@@ -1,0 +1,21 @@
+=============================================
+   PASSWORD SECURITY AUDIT REPORT
+=============================================
+  Date: 2026-03-10 10:59:56
+
+  [Dictionary Generator]
+  Total words generated : 42
+  Sample words          : ['test!', 'User2023', 'admin1999', 'test2023', 'Admin2023']
+
+  [Password Analysis]
+  Password              : admin123
+  Strength Score        : 3/5
+  Entropy               : 41.36 bits
+  Rating                : Moderate 
+
+  [Recommendations]
+  - Weak passwords are vulnerable to brute-force attacks.
+  - Use long, complex passwords (12+ characters).
+  - Avoid predictable patterns like names or years.
+  - Use a password manager.
+=============================================
